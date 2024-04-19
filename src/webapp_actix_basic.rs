@@ -2,7 +2,7 @@ use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
 
 #[get("/hello")]
 async fn hello() -> impl Responder {
-    HttpResponse::Ok().body("hello")
+    HttpResponse::Ok().body("Hello, Actix")
 }
 
 #[post("/echo")]
@@ -11,7 +11,7 @@ async fn echo(req_body: String) -> impl Responder {
 }
 
 async fn manual_hello() -> impl Responder {
-    HttpResponse::Ok().body("hello there!")
+    HttpResponse::Ok().body("Hello there!, Actix")
 }
 
 pub async fn start_server() -> std::io::Result<()> {
