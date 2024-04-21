@@ -1,6 +1,6 @@
 # Rust Daily Snippets
 
-![Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets/blog/main/assets/logo.jpeg)
+![Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets/blob/main/assets/logo.jpeg)
 
 Explore my daily Rust journey in 'Rust Daily Snippets,' a personal repository documenting my progress and projects in Rust programming. From web apps to command-line tools, discover my daily learnings and creations.
 
