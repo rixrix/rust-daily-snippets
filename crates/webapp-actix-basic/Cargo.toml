@@ -1,12 +1,9 @@
 [package]
-name = "rust-daily-snippets"
+name = "webapp-actix-basic"
 version = "0.1.0"
 edition = "2021"
-authors = ["Richard Sentino"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[workspace]
-members = ["crates/webapp-actix-basic", "crates/webapp-axum-basic"]
-
 [dependencies]
+actix-web = "4.5.1"

@@ -1,12 +1,10 @@
 [package]
-name = "rust-daily-snippets"
+name = "webapp-axum-basic"
 version = "0.1.0"
 edition = "2021"
-authors = ["Richard Sentino"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[workspace]
-members = ["crates/webapp-actix-basic", "crates/webapp-axum-basic"]
-
 [dependencies]
+axum = "0.7.5"
+tokio = { version = "1.37.0", features = ["full"] }
