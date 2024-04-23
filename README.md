@@ -1,8 +1,9 @@
-# Rust Daily Snippets
+<p align="center">
+    <img src="./assets/logo.png" height="100">
+    <h3 align="center">Rust Daily Snippets</h3>
+</p>
 
-![Rust Daily Snippets](https://github.com/rixrix/rust-daily-snippets/blob/main/assets/logo.jpeg)
-
-Explore my daily Rust journey in 'Rust Daily Snippets,' a personal repository documenting my progress and projects in Rust programming. From web apps to command-line tools, discover my daily learnings and creations.
+My daily Rust journey in 'Rust Daily Snippets' a personal repository documenting my progress and projects in Rust programming. From web apps to command-line tools, discover my daily learnings and creations.
 
 ## Features
 
@@ -19,7 +20,7 @@ Explore my daily Rust journey in 'Rust Daily Snippets,' a personal repository do
 Specify the package you want to try.
 
 ```
-cargon run --package webapp-actix-basic
+cargo run --package webapp-actix-basic
 ```
 
 ## Tech Stack
