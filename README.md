@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/logo.png" height="100">
+    <img src="./assets/logo.png" height="300">
     <h3 align="center">Rust Daily Snippets</h3>
 </p>
 
