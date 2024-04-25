@@ -11,6 +11,7 @@ members = [
   "crates/webapp-actix-basic",
   "crates/webapp-axum-basic",
   "crates/generics-basic",
+  "crates/enums-basic",
 ]
 
 [dependencies]
