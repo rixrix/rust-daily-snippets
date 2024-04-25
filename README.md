@@ -10,17 +10,38 @@ My daily Rust journey in 'Rust Daily Snippets' a personal repository documenting
 - webapp
   - Actix
   - Axum
+- Generics
+  - Basic with Ord trait
+- Enums
+  - Basic with Option trait
 
 ## Requirements
 
 - Rust
 
-## Run Locally
+## How to add new crates
 
-Specify the package you want to try.
+1. Update Cargo.toml members array ie.
 
 ```
-cargo run --package webapp-actix-basic
+members = [
+  ...
+  "crates/your-crates-name"
+]
+```
+
+2. Run cargo, and add your new crates
+
+```
+cargo new crates/your-crates-name
+```
+
+## How to run a crates package
+
+Specify the package you want to try. Remove the "crates/" folder
+
+```
+cargo run --package your-crates-name
 ```
 
 ## Tech Stack
