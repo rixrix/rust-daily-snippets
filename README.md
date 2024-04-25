@@ -5,6 +5,17 @@
 
 My daily Rust journey in 'Rust Daily Snippets' a personal repository documenting my progress and projects in Rust programming. From web apps to command-line tools, discover my daily learnings and creations.
 
+Enhancing Rust proficiency through a curated selection of resources:
+
+- the comprehensive Rust eBookshelf, https://dieterplex.github.io/rust-ebookshelf/
+- hard copy of 'Programming Rust' by O'Reilly, https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/
+
+My learning method is straightforward:
+
+1. Absorb knowledge in bite-sized portions daily.
+2. Transcribe code by hand using an E-Ink device for tactile learning, reinforcing muscle memory
+3. Then transfer it to VS Code once memorized.
+
 ## Features
 
 - webapp
