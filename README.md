@@ -25,6 +25,8 @@ My learning method is straightforward:
   - Basic with Ord trait
 - Enums
   - Basic with Option trait
+- Unsafe
+  - mutate global static variable
 
 ## Requirements
 

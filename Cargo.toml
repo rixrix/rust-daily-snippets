@@ -12,6 +12,7 @@ members = [
   "crates/webapp-axum-basic",
   "crates/generics-basic",
   "crates/enums-basic",
+  "crates/unsafe-mutate-static",
 ]
 
 [dependencies]
