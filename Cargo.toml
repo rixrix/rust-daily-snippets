@@ -13,6 +13,7 @@ members = [
   "crates/generics-basic",
   "crates/enums-basic",
   "crates/unsafe-mutate-static",
+  "crates/lifetime-basic",
 ]
 
 [dependencies]
