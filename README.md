@@ -27,6 +27,8 @@ My learning method is straightforward:
   - Basic with Option trait
 - Unsafe
   - mutate global static variable
+- Ownership
+  - Dangling reference
 
 ## Requirements
 
