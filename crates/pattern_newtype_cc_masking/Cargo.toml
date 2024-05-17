@@ -1,0 +1,6 @@
+[package]
+name = "pattern_newtype_cc_masking"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

@@ -17,7 +17,8 @@ members = [
   "crates/ownership-dangling-reference",
   "crates/lifetime-error-reference",
   "crates/lifetime-missing-lifetime",
-  "crates/lifetime-fixed-missing-lifetime"
+  "crates/lifetime-fixed-missing-lifetime",
+  "crates/pattern_newtype_cc_masking"
 ]
 
 [dependencies]

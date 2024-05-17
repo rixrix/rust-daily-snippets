@@ -33,6 +33,8 @@ My learning method is straightforward:
   - basic reference
   - missing lifetime
   - fixed missing lifetime
+- Patterns
+  - newtype w/ Credit Card number masking
 
 ## Requirements
 
