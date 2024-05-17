@@ -15,6 +15,9 @@ members = [
   "crates/unsafe-mutate-static",
   "crates/lifetime-basic",
   "crates/ownership-dangling-reference",
+  "crates/lifetime-error-reference",
+  "crates/lifetime-missing-lifetime",
+  "crates/lifetime-fixed-missing-lifetime"
 ]
 
 [dependencies]
