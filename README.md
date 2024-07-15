@@ -29,6 +29,8 @@ My learning method is straightforward:
   - mutate global static variable
 - Ownership
   - Dangling reference
+- Debug
+  - with derive
 
 ## Requirements
 

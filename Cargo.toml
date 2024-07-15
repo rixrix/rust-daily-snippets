@@ -15,6 +15,7 @@ members = [
   "crates/unsafe-mutate-static",
   "crates/lifetime-basic",
   "crates/ownership-dangling-reference",
+  "crates/debug-with-derive",
 ]
 
 [dependencies]
