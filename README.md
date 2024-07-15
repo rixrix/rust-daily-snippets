@@ -29,9 +29,15 @@ My learning method is straightforward:
   - mutate global static variable
 - Ownership
   - Dangling reference
+- Lifetime
+  - basic reference
+  - missing lifetime
+  - fixed missing lifetime
+- Patterns
+  - newtype w/ Credit Card number masking
 - Debug
   - with derive
-
+  
 ## Requirements
 
 - Rust
